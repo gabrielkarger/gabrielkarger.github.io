@@ -1,23 +1,24 @@
 body {
   margin: 44px 0 72px 72px;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
   font-size: 16px;
-  line-height: 1.42;
+  line-height: 1.45;
   color: #000;
   background: #fff;
 }
 
-main {
-  max-width: 760px;
-}
-
 h1 {
-  font-size: 34px;
+  font-family: "Iowan Old Style", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-size: 36px;
+  font-weight: 700;
   margin: 0 0 30px 0;
+  letter-spacing: -0.01em;
 }
 
 h2 {
+  font-family: "Iowan Old Style", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
   font-size: 20px;
+  font-weight: 700;
   margin: 0 0 14px 0;
   padding-top: 26px;
   border-top: 1px solid #ddd;
